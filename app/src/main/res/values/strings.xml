@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Banco</string>
+    <string name="autor">JOÃO VITOR LIMA COSTA - RA: 1110482313015</string>
+
+    <string name="h_cliente">Insira o nome</string>
+    <string name="h_numero">Insira o número da conta</string>
+    <string name="rbtn_poupanca">Conta Poupança</string>
+    <string name="rbtn_especial">Conta Especial</string>
+    <string name="btn_acesso">Acessar Conta</string>
+
+    <string name="tv_cliente">Cliente:</string>
+    <string name="tv_conta">número da Conta:</string>
+    <string name="tv_dia">Dia de Rendimento:</string>
+    <string name="tv_limite">Limite:</string>
+    <string name="btn_sacar">Sacar</string>
+    <string name="btn_depositar">Depositar</string>
+    <string name="btn_voltar">Voltar</string>
+
+    <string name="tv_falha">Valor Indisponivel</string>
+    <string name="tv_sucesso">Valor sacado</string>
+    <string name="tv_saldo">Saldo:</string>
+
+    <string name="btn_rendimento">Calcular Rendimento</string>
+    <string name="tv_rend">O rendimento foi de 5%</string>
+
+</resources>
